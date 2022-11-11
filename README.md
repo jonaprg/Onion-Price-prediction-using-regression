@@ -1,6 +1,6 @@
 ## Market Prices of Onion 2020
 
-The dataset can be found on [kaggle](https://www.kaggle.com/datasets/ravisane1/market-price-of-onion-2020).
+El dataset se encuentra en [kaggle](https://www.kaggle.com/datasets/ravisane1/market-price-of-onion-2020).
 
 En esta práctica se van analizar los datos y se van aplicar modelos de regressión. Dando emfasi en:
 
